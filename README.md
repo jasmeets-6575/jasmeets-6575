@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **MongoDb**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **Javascript, ReactJS , NodeJs , ExpressJs**
 
