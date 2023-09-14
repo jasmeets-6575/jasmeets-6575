@@ -5,9 +5,9 @@
 
 
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Solidity**
 
-- 💬 Ask me about **Javascript, ReactJS , NodeJs , ExpressJs**
+- 💬 Ask me about **Javascript, ReactJS , NodeJs , ExpressJs , Nextjs**
 
 - 📫 How to reach me ? -> **jasmeetsonu990@gmail.com**
 
@@ -15,6 +15,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/jasmeet-singh-b51240222"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jagmeetsingh2921" height="30" width="40" /></a>
 </p>
+
 
 <br/>
 <h3 align="left">Languages and Tools:</h3>
