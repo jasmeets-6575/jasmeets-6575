@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Solidity**
 
-- 💬 Ask me about **javascript, ReactJS , NodeJs , ExpressJs , Nextjs**
+- 💬 Ask me about **Javascript, ReactJS , NodeJs , ExpressJs , Nextjs**
 
 - 📫 How to reach me ? -> **jasmeetsonu990@gmail.com**
 
