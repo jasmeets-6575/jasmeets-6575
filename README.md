@@ -46,7 +46,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasmeets-6575&show_icons=true&theme=dark)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jasmeets-6575&" alt="jasmeets-6575" /></p>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jasmeets-6575&bg_color=1b1917&color=0991b1&line=ffffff&point=0991b1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jasmeets-6575&bg_color=1b1917&color=0991b1&line=ffffff&point=0991b1&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <div width="100%" align="left">
   
 <br/>
