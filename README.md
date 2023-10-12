@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Solidity , web3.js**
+- 🌱 I’m currently learning **Solidity , web3.js , Golang**
 
 - 💬 Ask me about **Javascript, ReactJS , NodeJs , ExpressJs , Nextjs**
 
